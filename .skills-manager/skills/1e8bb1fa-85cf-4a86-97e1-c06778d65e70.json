@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e8bb1fa-85cf-4a86-97e1-c06778d65e70",
+  "path": "official-document-writing",
+  "path_key": "official-document-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

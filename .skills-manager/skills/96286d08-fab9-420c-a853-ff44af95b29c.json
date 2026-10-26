@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96286d08-fab9-420c-a853-ff44af95b29c",
+  "path": "Medical Health Bid Radar - Yiliaozhaobiaocaigouwang",
+  "path_key": "medical health bid radar - yiliaozhaobiaocaigouwang",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

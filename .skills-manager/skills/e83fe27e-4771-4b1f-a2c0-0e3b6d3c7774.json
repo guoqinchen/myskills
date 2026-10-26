@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e83fe27e-4771-4b1f-a2c0-0e3b6d3c7774",
+  "path": "miniprogram-audit",
+  "path_key": "miniprogram-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

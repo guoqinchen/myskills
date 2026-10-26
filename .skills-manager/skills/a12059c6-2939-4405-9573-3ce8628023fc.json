@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a12059c6-2939-4405-9573-3ce8628023fc",
+  "path": "i-have-adhd",
+  "path_key": "i-have-adhd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

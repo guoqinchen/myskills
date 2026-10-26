@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "745f434c-5edd-47db-bcef-d40ed573fec6",
+  "path": "患者治疗旅程与依从性分析",
+  "path_key": "患者治疗旅程与依从性分析",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

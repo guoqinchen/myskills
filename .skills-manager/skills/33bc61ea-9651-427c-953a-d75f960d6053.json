@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33bc61ea-9651-427c-953a-d75f960d6053",
+  "path": "miniprogram-development",
+  "path_key": "miniprogram-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

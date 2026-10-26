@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "646ffc6c-efd8-4b35-8406-973dade1b8b3",
+  "path": "微信读书",
+  "path_key": "微信读书",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

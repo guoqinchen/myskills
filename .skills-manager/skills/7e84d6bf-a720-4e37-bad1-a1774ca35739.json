@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e84d6bf-a720-4e37-bad1-a1774ca35739",
+  "path": "project-doc-generator",
+  "path_key": "project-doc-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

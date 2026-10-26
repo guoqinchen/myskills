@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "24902bc9-9bfe-48e7-a3e1-ad801ca97e48",
+  "path": "inkos",
+  "path_key": "inkos",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

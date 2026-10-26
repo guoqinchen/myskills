@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fca6cb6e-0807-48fe-a25d-167e134b37b4",
+  "path": "managing-homedir",
+  "path_key": "managing-homedir",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec874cb2-b880-420d-93dc-83e657acb5e8",
+  "path": "medinfo-solution-expert-2",
+  "path_key": "medinfo-solution-expert-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

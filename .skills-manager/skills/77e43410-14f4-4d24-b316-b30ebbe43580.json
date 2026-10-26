@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "77e43410-14f4-4d24-b316-b30ebbe43580",
+  "path": "LaTeX",
+  "path_key": "latex",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

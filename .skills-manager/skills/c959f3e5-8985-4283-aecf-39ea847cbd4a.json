@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c959f3e5-8985-4283-aecf-39ea847cbd4a",
+  "path": "security-best-practices",
+  "path_key": "security-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

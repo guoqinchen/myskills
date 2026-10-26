@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1fd093b1-ef75-49df-be19-c8a6e81ef9a8",
+  "path": "keel",
+  "path_key": "keel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

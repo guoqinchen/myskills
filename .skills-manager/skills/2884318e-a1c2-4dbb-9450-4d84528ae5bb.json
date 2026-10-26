@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2884318e-a1c2-4dbb-9450-4d84528ae5bb",
+  "path": "tdesign-miniprogram",
+  "path_key": "tdesign-miniprogram",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

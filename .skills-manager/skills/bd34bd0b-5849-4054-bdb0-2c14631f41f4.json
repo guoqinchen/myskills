@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd34bd0b-5849-4054-bdb0-2c14631f41f4",
+  "path": "slides",
+  "path_key": "slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe7dff7b-e68f-4617-a6c3-d6126871f7b7",
+  "path": "find-unknowns",
+  "path_key": "find-unknowns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

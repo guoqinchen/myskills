@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d3eb85b8-3d06-448f-af9c-c2248f040653",
+  "path": "coding-protocol",
+  "path_key": "coding-protocol",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

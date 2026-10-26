@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6e0105a-5531-459d-9537-288f442d83a0",
+  "path": "vue-options-api-best-practices",
+  "path_key": "vue-options-api-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

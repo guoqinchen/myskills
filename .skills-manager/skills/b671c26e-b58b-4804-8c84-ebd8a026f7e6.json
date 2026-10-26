@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b671c26e-b58b-4804-8c84-ebd8a026f7e6",
+  "path": "tcm-fa-zheng-dui-ying",
+  "path_key": "tcm-fa-zheng-dui-ying",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

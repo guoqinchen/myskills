@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd7e8c3d-23c1-41db-ac03-5881e141b7bc",
+  "path": "debate-2",
+  "path_key": "debate-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

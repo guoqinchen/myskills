@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e91c8a2-fdf9-4c72-bd20-9375600993f0",
+  "path": "dev-expert-pro",
+  "path_key": "dev-expert-pro",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af928df2-353e-4128-a71d-9d275b10e44a",
+  "path": "create-adaptable-composable",
+  "path_key": "create-adaptable-composable",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da8dc67c-a72d-4aad-9962-cbf09d2c1fc5",
+  "path": "PPT Page",
+  "path_key": "ppt page",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

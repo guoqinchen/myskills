@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e74cf72c-4e19-4f83-b17e-c00fcb941d14",
+  "path": "consulting-analysis",
+  "path_key": "consulting-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

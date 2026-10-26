@@ -1,0 +1,4 @@
+interface:
+  display_name: "编程专家 Pro"
+  short_description: "工程专题与鸿蒙、微信小程序开发的集成助手"
+  default_prompt: "使用 $dev-expert-pro 阅读当前项目，完成开发任务并提供实际验证证据。"

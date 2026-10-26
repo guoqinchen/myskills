@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2a3b634-0c7f-4e14-b4bb-ead3773b9f79",
+  "path": "formula-derivation",
+  "path_key": "formula-derivation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

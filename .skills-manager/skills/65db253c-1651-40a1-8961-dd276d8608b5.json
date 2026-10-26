@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "65db253c-1651-40a1-8961-dd276d8608b5",
+  "path": "ponytail-gain",
+  "path_key": "ponytail-gain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

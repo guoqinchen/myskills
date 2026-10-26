@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc0ec4e4-990e-40df-a089-07a228d3bac6",
+  "path": "Medical Literature Search",
+  "path_key": "medical literature search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

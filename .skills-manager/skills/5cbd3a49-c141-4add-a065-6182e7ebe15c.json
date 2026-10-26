@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5cbd3a49-c141-4add-a065-6182e7ebe15c",
+  "path": "proof-writer",
+  "path_key": "proof-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

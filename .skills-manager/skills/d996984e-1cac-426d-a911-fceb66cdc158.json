@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d996984e-1cac-426d-a911-fceb66cdc158",
+  "path": "wxa-skills-generate",
+  "path_key": "wxa-skills-generate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

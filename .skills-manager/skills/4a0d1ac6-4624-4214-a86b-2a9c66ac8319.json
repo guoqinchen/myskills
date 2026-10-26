@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a0d1ac6-4624-4214-a86b-2a9c66ac8319",
+  "path": "redesign-existing-projects",
+  "path_key": "redesign-existing-projects",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

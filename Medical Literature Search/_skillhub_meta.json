@@ -1,0 +1,11 @@
+{
+  "slug": "medical-literature-search",
+  "name": "Medical Literature Search",
+  "version": "1.0.0",
+  "installedAt": 1785378740926,
+  "source": "skillhub",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/a00e31c7-8d6a-4e65-84fc-16a177f95674.png",
+  "iconLocalPath": "/Users/max/.workbuddy/skills/medical-literature-search__skillhub/_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/a00e31c7-8d6a-4e65-84fc-16a177f95674.png",
+  "installedContentHash": "sha256:a941d3ee353ce5e4cabcbb3eb125b1b992db790da6fad1a9d23e0233d17255fe"
+}

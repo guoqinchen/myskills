@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "85bac8ef-79f7-470c-9e43-301d590b3a65",
+  "path": "defuddle",
+  "path_key": "defuddle",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5194fee-cdeb-47a0-8c08-8bb3ccdb2e12",
+  "path": "matematico-tao",
+  "path_key": "matematico-tao",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

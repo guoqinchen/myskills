@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42a344e3-e9b6-4b19-a4a3-0650490748e1",
+  "path": "using-git-worktrees",
+  "path_key": "using-git-worktrees",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

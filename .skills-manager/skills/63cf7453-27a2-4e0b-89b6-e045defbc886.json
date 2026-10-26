@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "63cf7453-27a2-4e0b-89b6-e045defbc886",
+  "path": "vue-pinia-best-practices",
+  "path_key": "vue-pinia-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "569ec904-9b82-4a40-ad15-378e8d2b30de",
+  "path": "maintaining-macos-defaults",
+  "path_key": "maintaining-macos-defaults",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "patient-treatment-journey-and-adherence-analysis",
+  "name": "患者治疗旅程与依从性分析",
+  "version": "1.0.0",
+  "installedAt": 1785379126182,
+  "source": "skillhub",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/e089b3bb-5a99-41bc-8881-40980028b748.png",
+  "iconLocalPath": "/Users/max/.workbuddy/skills/patient-treatment-journey-and-adherence-analysis__skillhub/_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/e089b3bb-5a99-41bc-8881-40980028b748.png",
+  "installedContentHash": "sha256:93383ba33f7c2519b44c7e18bdc8bc4d08630fdd702c44ab3136cffa67a73316"
+}

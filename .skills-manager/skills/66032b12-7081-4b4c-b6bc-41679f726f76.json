@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "66032b12-7081-4b4c-b6bc-41679f726f76",
+  "path": "resolving-merge-conflicts",
+  "path_key": "resolving-merge-conflicts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

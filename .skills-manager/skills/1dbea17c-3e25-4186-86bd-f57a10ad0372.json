@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1dbea17c-3e25-4186-86bd-f57a10ad0372",
+  "path": "douyin-interact-creation",
+  "path_key": "douyin-interact-creation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

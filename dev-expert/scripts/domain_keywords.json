@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "note": "已知领域缓存（可选，非判定门槛）：用于快速命中与最近邻建议。领域识别以 --detect 的三路信号为准（reference 的「不适用」声明 / 路由触发信号 / 未登记技术词），未收录的领域按 GAP 或 UNSURE 处理，不会因缺词表而默认已覆盖。",
+  "domains": {
+    "miniprogram": {
+      "title": "小程序开发",
+      "keywords": ["小程序", "WXML", "WXSS", "setData", "分包", "app.json", "微信开发者工具", "uni-app", "wx.request", "wx.setStorage", "类目审核"],
+      "nearest": ["frontend-design", "javascript-development", "api-design"],
+      "boundary": "微信/支付宝等小程序运行时；不含 H5 与原生 App"
+    },
+    "mobile-app": {
+      "title": "移动端 App 开发",
+      "keywords": ["Flutter", "React Native", "Android", "安卓", "iOS", "TestFlight", "APK", "应用商店", "上架审核", "原生开发"],
+      "nearest": ["frontend-design", "javascript-development", "api-design"],
+      "boundary": "原生/跨端 App 工程与发布；不含小程序与 H5"
+    }
+  }
+}

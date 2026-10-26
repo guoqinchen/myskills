@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3313607f-ce68-49e7-8008-be14e5a4f575",
+  "path": "Math",
+  "path_key": "math",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

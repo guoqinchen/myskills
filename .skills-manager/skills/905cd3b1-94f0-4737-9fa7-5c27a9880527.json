@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "905cd3b1-94f0-4737-9fa7-5c27a9880527",
+  "path": "retro",
+  "path_key": "retro",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

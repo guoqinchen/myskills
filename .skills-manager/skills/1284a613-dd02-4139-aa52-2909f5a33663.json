@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1284a613-dd02-4139-aa52-2909f5a33663",
+  "path": "hook-analyzer",
+  "path_key": "hook-analyzer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

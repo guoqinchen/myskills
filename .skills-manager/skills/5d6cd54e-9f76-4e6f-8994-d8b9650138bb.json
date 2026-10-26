@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d6cd54e-9f76-4e6f-8994-d8b9650138bb",
+  "path": "redis-development",
+  "path_key": "redis-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

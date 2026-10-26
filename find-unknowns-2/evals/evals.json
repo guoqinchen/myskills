@@ -1,0 +1,202 @@
+{
+  "skill_name": "find-unknowns",
+  "triggers": [
+    {
+      "id": "t1",
+      "query": "我想把个人博客从 WordPress 迁移到 Hugo 静态站，但我没用过静态网站生成器，有什么需要注意的吗？除了内容迁移还有哪些我没想到的？",
+      "should_trigger": true
+    },
+    {
+      "id": "t2",
+      "query": "老板让我评估团队半年的研发效率做个PPT汇报，我没做过这种分析，该怎么入手？需要哪些数据？",
+      "should_trigger": true
+    },
+    {
+      "id": "t3",
+      "query": "公司的MySQL慢查询越来越多，DBA让我加索引但我对数据库优化不太懂，怎么确保不会加错导致更慢？",
+      "should_trigger": true
+    },
+    {
+      "id": "t4",
+      "query": "刚接手一个5年历史的Rails项目，测试覆盖率不到20%，老板让我加一个支付模块 Shopify集成。代码不熟也不敢乱改，怎么办？",
+      "should_trigger": true
+    },
+    {
+      "id": "t5",
+      "query": "ok so we need to move from a monolith to microservices. i know roughly what needs to happen but never actually done it. what am i not thinking about?",
+      "should_trigger": true
+    },
+    {
+      "id": "t6",
+      "query": "客户要求 SOC 2 Type II 认证，我们团队没人做过合规，第一步该干什么？周期多久？大概要多少预算？",
+      "should_trigger": true
+    },
+    {
+      "id": "t7",
+      "query": "我想用AI自动分类客服工单，需求不是很明确——应该先定义分类体系、先收集标注数据、还是先选模型？顺序怎么排？",
+      "should_trigger": true
+    },
+    {
+      "id": "t8",
+      "query": "团队的CI/CD每次跑40分钟，我想优化但不确定瓶颈在编译、测试还是部署环节。怎么排查？",
+      "should_trigger": true
+    },
+    {
+      "id": "t9",
+      "query": "从零开始设计SaaS定价页面，但不确定用免费增值还是按用量计费。我们的产品是API服务，目标用户是中小开发团队。",
+      "should_trigger": true
+    },
+    {
+      "id": "t10",
+      "query": "给一个政府项目写技术方案，要求高可用和国产化替代。我第一次做政府项目，不知道有哪些特殊要求和坑。",
+      "should_trigger": true
+    },
+    {
+      "id": "t11",
+      "query": "帮我分析这段 React 代码有什么性能问题，怎么优化。",
+      "should_trigger": true
+    },
+    {
+      "id": "t12",
+      "query": "我不知道这个TypeScript泛型语法怎么用，帮我写个示例。",
+      "should_trigger": true
+    },
+    {
+      "id": "f1",
+      "query": "帮我把这个 JSON 转成 CSV 格式。",
+      "should_trigger": false
+    },
+    {
+      "id": "f2",
+      "query": "Nginx的client_max_body_size默认值是多少？怎么修改？",
+      "should_trigger": false
+    },
+    {
+      "id": "f3",
+      "query": "项目启动报错 Module not found: 'lodash'，怎么解决？",
+      "should_trigger": false
+    },
+    {
+      "id": "f4",
+      "query": "用pandas读取这个CSV并计算各部门的平均薪资。",
+      "should_trigger": false
+    },
+    {
+      "id": "f5",
+      "query": "解释一下OAuth2的authorization code flow和PKCE的区别。",
+      "should_trigger": false
+    },
+    {
+      "id": "f6",
+      "query": "帮我写一个pre-commit hook自动运行eslint检查。",
+      "should_trigger": false
+    },
+    {
+      "id": "f7",
+      "query": "JavaScript中let和const的区别是什么？",
+      "should_trigger": false
+    },
+    {
+      "id": "f8",
+      "query": "帮我格式化这段Python代码。",
+      "should_trigger": false
+    },
+    {
+      "id": "f9",
+      "query": "Linux下怎么查看端口占用？",
+      "should_trigger": false
+    },
+    {
+      "id": "f10",
+      "query": "帮我把'Hello World'翻译成中文。",
+      "should_trigger": false
+    },
+    {
+      "id": "f11",
+      "query": "Python中list和tuple的区别？",
+      "should_trigger": false
+    },
+    {
+      "id": "f12",
+      "query": "帮我计算100的阶乘。",
+      "should_trigger": false
+    }
+  ],
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我是做市场运营的，老板让我用AI分析最新的用户满意度问卷数据。500份问卷结果在腾讯文档里，包含评分题和开放题。我需要找出用户最不满意的3个方面，然后生成一份PPT汇报。我对数据分析完全不懂，也不知道AI能不能处理中文问卷。你帮我看看怎么搞？",
+      "expected_output": "AI帮助用户发现数据分析领域的盲区，解释关键概念，询问必要信息，然后给出分步方案",
+      "files": [],
+      "expectations": [
+        "AI在给出方案前先解释了数据分析的基本概念和用户可能需要知道的关键点",
+        "AI询问了数据格式、问卷结构、评分标准等具体信息",
+        "AI指出了用户可能不知道的关键盲区（如数据清洗、样本偏差、统计显著性等）",
+        "AI没有直接跳到写代码/执行操作，而是先帮助用户理解过程"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "我想做一个能搜索我和AI所有历史对话的工具。不止是关键词搜索，是能理解语义的那种，比如搜'上次那个关于用户增长的方案'就能找到对应的对话。我没做过搜索功能，不确定应该用什么方案——向量数据库？Elasticsearch？还是直接调AI的API做rerank？目标用户是开发者。我想先探索一下再决定怎么做。",
+      "expected_output": "AI通过对比多个技术方案、提问澄清使用场景，帮助用户发现自己的偏好和约束条件",
+      "files": [],
+      "expectations": [
+        "AI提出了至少2-3个不同的技术方案（如向量搜索、ES全文搜索、混合方案等）",
+        "AI对比了不同方案的适用场景、优劣势和成本权衡",
+        "AI通过提问帮助用户明确搜索场景、用户画像和规模预期",
+        "AI没有在充分探索前就锁定一个推荐方案"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "接了个老项目，认证还是session那套，老板要我改成JWT。看了下代码：有的接口用express中间件鉴权，有的在controller里自己判断session，有几个API甚至没鉴权。依赖很旧，express还是3.x。线上服务不能停，项目在GitHub上。我需要AI帮我搞。",
+      "expected_output": "AI先分析现有代码架构，制定分阶段迁移计划，考虑兼容性和回滚方案",
+      "files": [],
+      "expectations": [
+        "AI在出方案前先分析了现有认证实现的结构",
+        "AI制定了分阶段的实施计划而非试图一次性全部修改",
+        "AI考虑了兼容性、回滚方案和线上不停机策略",
+        "AI没有在了解完整情况前就直接给出修改代码"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "我想做一个电商网站的推荐系统，但不知道从哪里开始。一开始我觉得应该用协同过滤，但后来又听说深度学习推荐效果更好。现在我有点混乱，不知道该选哪种方案。而且我对推荐系统完全不懂，不知道需要什么数据、怎么评估效果。",
+      "expected_output": "AI帮助用户理清技术选型思路，解释不同推荐算法的适用场景，引导用户明确需求和约束",
+      "files": [],
+      "expectations": [
+        "AI解释了协同过滤和深度学习推荐的基本概念和适用场景",
+        "AI提出了至少3个不同的技术方案（基于规则、协同过滤、深度学习、混合方案）",
+        "AI询问了业务目标、数据情况、实时性要求等关键信息",
+        "AI帮助用户建立评估指标体系（如点击率、转化率、用户满意度）",
+        "AI没有直接推荐一个方案，而是帮助用户根据自身情况做决策"
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "老板让我做一个内部知识库系统，支持全文搜索和权限管理。我一开始想直接用Confluence，但后来觉得太笨重了。然后又考虑用Notion，但担心数据安全。现在我又觉得自己开发一个轻量版可能更好，但我没做过知识库系统，不知道需要多久、难度多大。",
+      "expected_output": "AI帮助用户评估多个方案，分析每个方案的优缺点，引导用户明确需求优先级",
+      "files": [],
+      "expectations": [
+        "AI分析了至少3个方案（Confluence、Notion、自建）",
+        "AI对比了每个方案的成本、开发周期、功能完整性、安全性",
+        "AI询问了用户的核心需求（搜索质量、权限复杂度、扩展性要求）",
+        "AI帮助用户建立决策标准（如成本预算、时间限制、技术栈偏好）",
+        "AI在用户摇摆不定时，通过提问帮助用户理清自己的优先级"
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "我想做一个实时聊天应用，用户能发文字、图片和文件。我对WebSocket不太熟，不知道怎么处理断线重连和消息可靠性。而且我还需要考虑多设备同步的问题——用户在手机上发的消息，电脑上也要能看到。",
+      "expected_output": "AI帮助用户理解实时通信的关键技术概念，分析架构设计的关键决策点",
+      "files": [],
+      "expectations": [
+        "AI解释了WebSocket、消息队列、状态同步等关键概念",
+        "AI分析了消息可靠性的设计要点（确认机制、重试策略、消息去重）",
+        "AI提出了多设备同步的方案（中心化状态存储、事件溯源、CRDT）",
+        "AI询问了用户规模、消息频率、离线消息需求等关键约束",
+        "AI帮助用户设计了系统架构的核心组件和交互流程"
+      ]
+    }
+  ]
+}

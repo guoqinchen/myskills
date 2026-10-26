@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1a325552-6d4c-4c3f-969b-282f8568c927",
+  "path": "minimalist-ui",
+  "path_key": "minimalist-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

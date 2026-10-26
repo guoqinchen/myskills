@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c24c3c6-bd22-4587-a21a-36b951a417b0",
+  "path": "darwin-skill",
+  "path_key": "darwin-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

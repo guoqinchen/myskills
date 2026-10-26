@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ed2d1a8-6987-4dd4-a1d3-1deb2317ad8c",
+  "path": "academic-paper",
+  "path_key": "academic-paper",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

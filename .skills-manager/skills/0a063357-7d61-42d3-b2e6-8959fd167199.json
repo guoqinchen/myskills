@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a063357-7d61-42d3-b2e6-8959fd167199",
+  "path": "deslop",
+  "path_key": "deslop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

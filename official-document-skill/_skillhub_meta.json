@@ -1,0 +1,11 @@
+{
+  "slug": "official-document-skill",
+  "name": "official-document-skill",
+  "version": "1.0.3",
+  "installedAt": 1786734758243,
+  "source": "skillhub",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/27205dc2-3c4b-4854-85b1-8902f05745a3.png",
+  "iconLocalPath": "/Users/max/.workbuddy/skills/official-document-skill__skillhub/_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/27205dc2-3c4b-4854-85b1-8902f05745a3.png",
+  "installedContentHash": "sha256:fb8a937da670e4ad46e8677a6395e7a2e121bb5c8d7d313d2e57110aa8763e62"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "99200c05-2062-4753-a11a-62463833e04d",
+  "path": "design-fhir-loinc-questionnaires",
+  "path_key": "design-fhir-loinc-questionnaires",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

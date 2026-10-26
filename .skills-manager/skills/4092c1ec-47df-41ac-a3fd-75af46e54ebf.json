@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4092c1ec-47df-41ac-a3fd-75af46e54ebf",
+  "path": "Dashboard Page",
+  "path_key": "dashboard page",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

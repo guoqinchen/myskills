@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c9d80f12-3658-4a71-9c11-3fd1a88ea78f",
+  "path": "med-chronic-disease-review",
+  "path_key": "med-chronic-disease-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

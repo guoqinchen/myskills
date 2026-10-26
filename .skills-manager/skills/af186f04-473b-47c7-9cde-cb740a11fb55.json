@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af186f04-473b-47c7-9cde-cb740a11fb55",
+  "path": "skyline",
+  "path_key": "skyline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

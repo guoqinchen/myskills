@@ -1,0 +1,11 @@
+{
+  "slug": "debate",
+  "name": "debate",
+  "version": "1.0.1",
+  "installedAt": 1785459960474,
+  "source": "skillhub",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/62f73a9b-1aca-4f8e-921d-6102e258c768.png",
+  "iconLocalPath": "/Users/max/.workbuddy/skills/debate__skillhub/_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/62f73a9b-1aca-4f8e-921d-6102e258c768.png",
+  "installedContentHash": "sha256:a4cfb7cf83442d1d79715a6dfebe6c40d8ab367990e8d34bcd5eee2b09ca8653"
+}

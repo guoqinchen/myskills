@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "225974f4-7399-4657-8c34-8f89981c23a1",
+  "path": "medical-guidelines-hub",
+  "path_key": "medical-guidelines-hub",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

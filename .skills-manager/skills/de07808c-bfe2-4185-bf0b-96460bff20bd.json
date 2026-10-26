@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de07808c-bfe2-4185-bf0b-96460bff20bd",
+  "path": "hospital-informatization-project",
+  "path_key": "hospital-informatization-project",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

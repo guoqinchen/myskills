@@ -1,0 +1,11 @@
+{
+  "slug": "medical-guidelines-hub",
+  "name": "医学指南共识",
+  "version": "1.0.0",
+  "installedAt": 1785378707796,
+  "source": "skillhub",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/2d8152d9-7618-454e-9d87-2487f1b4457f.png",
+  "iconLocalPath": "/Users/max/.workbuddy/skills/medical-guidelines-hub__skillhub/_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/2d8152d9-7618-454e-9d87-2487f1b4457f.png",
+  "installedContentHash": "sha256:71468cdfc9b3f92643d315051af668af0b242a062a40a22646098f09b3217fcd"
+}

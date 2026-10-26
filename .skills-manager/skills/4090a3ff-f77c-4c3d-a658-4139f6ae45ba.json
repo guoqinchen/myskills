@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4090a3ff-f77c-4c3d-a658-4139f6ae45ba",
+  "path": "batch-grill-me",
+  "path_key": "batch-grill-me",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

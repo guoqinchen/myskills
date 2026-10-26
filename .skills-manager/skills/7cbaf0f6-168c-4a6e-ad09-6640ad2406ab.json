@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7cbaf0f6-168c-4a6e-ad09-6640ad2406ab",
+  "path": "academic-pipeline",
+  "path_key": "academic-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

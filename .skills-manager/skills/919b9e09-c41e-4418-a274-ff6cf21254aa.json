@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "919b9e09-c41e-4418-a274-ff6cf21254aa",
+  "path": "x-mastery-mentor",
+  "path_key": "x-mastery-mentor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

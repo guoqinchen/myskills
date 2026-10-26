@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e61ac11-4ccb-455c-b791-9883ee4dc6c8",
+  "path": "patent-disclosure-skill",
+  "path_key": "patent-disclosure-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

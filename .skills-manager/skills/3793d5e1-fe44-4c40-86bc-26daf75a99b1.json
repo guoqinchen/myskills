@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3793d5e1-fe44-4c40-86bc-26daf75a99b1",
+  "path": "typesafe-ai",
+  "path_key": "typesafe-ai",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
